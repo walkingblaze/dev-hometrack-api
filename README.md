@@ -12,7 +12,7 @@ Install dependencies
 npm install
 ```
 
-Run express server locally
+Run express server locally on port 3000
 
 ```bash
 gulp
